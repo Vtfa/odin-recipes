@@ -1,1 +1,1 @@
-# First (and basic) Odin Project assignment
+First (and basic) Odin Project assignment
